@@ -10,8 +10,7 @@
 # JS-Projects-PiP
 <hr>
 
-2022/12/03 Infinite Scroll - [Github](https://github.com/rroyo/JS-Projects-PiP) | [Live](https://rroyo.github.io/JS-Projects-PiP):
-Working on it!
+2022/12/03 Infinite Scroll - [Github](https://github.com/rroyo/JS-Projects-PiP) | [Live](https://rroyo.github.io/JS-Projects-PiP).
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
